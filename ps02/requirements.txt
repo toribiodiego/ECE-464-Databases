@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pymongo
+selenium
+pandas
+urllib3==1.26.16
+sqlalchemy
