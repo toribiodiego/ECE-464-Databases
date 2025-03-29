@@ -1,6 +1,6 @@
 
 
-> This repository contains the code for **ECE 464: Databases**, a 3-credit undergraduate-level course at The Cooper Union for the Advancement of Science and Art, covering foundational and advanced topics in database systems.
+> This repository contains the code for **ECE 464: Databases**, a 3-credit graduate-level course at The Cooper Union for the Advancement of Science and Art, covering foundational and advanced topics in database systems.
 
 
 ## Databases
